@@ -164,6 +164,7 @@ const Home = () => {
         </h3>
         <p className="text-gray-700 leading-relaxed">
           Interactive Assessments: 
+          
           Engaging exercises designed to evaluate children's language skills, vocabulary, and comprehension through various question formats. Tailored for nursery through 8th grade.
         </p>
       </div>
